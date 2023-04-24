@@ -1,4 +1,9 @@
 ## Add unofficial client to the README
 
-GitHub URL: <!---Add your Source Code URL Here--->
-Download
+Name: <!-- The name of your client -->
+Platform: <!-- Which platform does your client run on? -->
+GitHub URL: <!-- Add the URL instead of me -->
+Download URL: <!-- Link propably to GitHub Releases -->
+
+- [ ] Is the platform that the client is running on is officially supported?
+<!-- Add an X here to check -->
